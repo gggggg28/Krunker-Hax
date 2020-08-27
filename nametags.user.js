@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Simple ESP
+// @name         Simple Nametags
 // @author       chomler
 // @match        *://krunker.io/*
 // @grant        none
